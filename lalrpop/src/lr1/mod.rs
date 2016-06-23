@@ -13,6 +13,7 @@ mod example;
 mod first;
 mod lane_table;
 mod lookahead;
+mod parse_table;
 mod state_graph;
 mod tls;
 mod trace;
